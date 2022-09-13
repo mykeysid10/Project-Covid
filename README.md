@@ -4,10 +4,6 @@
 
 <h1 align="center">😎 Team InfySOARS 😎</h1>
 
-<p align="center">
-      <img width="300" src="https://raw.githubusercontent.com/Atharv-Chaudhari/Project-Covid/main/static/images/risklogo.png">
-</p>
-
 <h2 align="center">✨ Project Covid ✨</h2>
 <h3 align="left">System Architecture</h3>
 
