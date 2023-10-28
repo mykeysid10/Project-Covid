@@ -6,9 +6,9 @@
 
 <h2 align="center">✨ Analysis & Detection of Covid-19 Cases using AI/ML ✨</h2>
 
-##### Project Aim: Standalone Website that has all the below phases as functionality/features + Vaccine Tracker.
+##### Project Aim: Standalone Website that has all the below phases as individual functionalities.
 
-##### Domain: Machine Learning | Deep Learning | Computer Vision | NLP | Web Development |
+##### Domain: Machine Learning | Deep Learning | Computer Vision | NLP | Web Development 
 
 ##### Achievements: 1st Rank at RIT & WIT Hackathon of 40 Teams | Conference Presentation
 
@@ -18,7 +18,7 @@
 
 ##### Approach:
 
-###### Phase 1 - Detection of Covid Positive Cases using Machine Learning
+###### Phase 1 - Prediction of Covid Positive Cases using Demographic User Details & Symptoms (Machine Learning)
 
 <div align="center">
  
@@ -29,7 +29,7 @@
 
 </div>
 
-###### Phase 2 - Detection of Covid Positive Cases using Deep Learning 
+###### Phase 2 - Detection of Covid Positive Cases using Chest X-rays & CT-Scans (Deep Learning + Computer Vision)
 
 <div align="center">  
  
@@ -40,7 +40,7 @@
 
 </div>
 
-###### Phase 3 - Global Covid Data Analysis & Covid Vaccine Tracker  
+###### Phase 3 - Live Global Covid Data Analysis & Covid Vaccine Tracker (Google Sheets + Tableau + API) 
 
 <div align="center">    
  
@@ -48,7 +48,7 @@
 
 </div>
 
-###### Phase 4 - Covid Tweets Sentiment Analysis using NLP
+###### Phase 4 - Prediction of Sentiment for Covid Tweets (NLP + Machine Learning)
 
 <div align="center">
  
@@ -58,7 +58,7 @@
 
 </div>
 
-###### Phase 5 - UI Development using Django Framework & Deployement using Heroku
+###### Phase 5 - Website Building & Deployment (Django + MySQL + Heroku)
 
 <div align="center">
  
