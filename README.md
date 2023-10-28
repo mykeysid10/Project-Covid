@@ -12,11 +12,13 @@
 
 ##### Achievements: 1st Rank at RIT & WIT Hackathon of 40 Teams | Conference Presentation
 
-##### System Architecture
+##### System Architecture:
 
 ![System Architecture](https://user-images.githubusercontent.com/61587515/165577978-df90f809-f638-4e38-a472-1eeedbe44656.png)
 
-##### Phase 1 - Detection of Covid Positive Cases using Machine Learning
+##### Approach:
+
+###### Phase 1 - Detection of Covid Positive Cases using Machine Learning
 
 <div align="center">
  
@@ -27,7 +29,7 @@
 
 </div>
 
-##### Phase 2 - Detection of Covid Positive Cases using Deep Learning 
+###### Phase 2 - Detection of Covid Positive Cases using Deep Learning 
 
 <div align="center">  
  
@@ -38,7 +40,7 @@
 
 </div>
 
-##### Phase 3 - Global Covid Data Analysis & Covid Vaccine Tracker  
+###### Phase 3 - Global Covid Data Analysis & Covid Vaccine Tracker  
 
 <div align="center">    
  
@@ -46,7 +48,7 @@
 
 </div>
 
-##### Phase 4 - Covid Tweets Sentiment Analysis using NLP
+###### Phase 4 - Covid Tweets Sentiment Analysis using NLP
 
 <div align="center">
  
@@ -56,7 +58,7 @@
 
 </div>
 
-##### Phase 5 - UI Development using Django Framework & Deployement using Heroku
+###### Phase 5 - UI Development using Django Framework & Deployement using Heroku
 
 <div align="center">
  
